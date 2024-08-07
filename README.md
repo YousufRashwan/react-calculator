@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # react-calculator
 
-See the code in action: https://codepen.io/Yousef-Rashwan/pen/OJegyqz
+See the code in action: https://codepen.io/Yousef-Rashwan/full/OJegyqz
